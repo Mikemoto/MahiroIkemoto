@@ -1,0 +1,3 @@
+/sphenix/tg/tg01/commissioning/INTT/work/mahiro/SIliconCalo/MC/ana/merged_100k.root
+/sphenix/tg/tg01/commissioning/INTT/work/mahiro/SIliconCalo/MC/ana/merged_1m.root
+/sphenix/tg/tg01/commissioning/INTT/work/mahiro/SIliconCalo/MC/ana/merged_100m.root

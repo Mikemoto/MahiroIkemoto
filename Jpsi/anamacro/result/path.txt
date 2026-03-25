@@ -1,0 +1,4 @@
+/sphenix/tg/tg01/commissioning/INTT/work/mahiro/SIliconCalo/run24pp/macro/result/data
+
+修論に使った図
+/sphenix/tg/tg01/commissioning/INTT/work/mahiro/SIliconCalo/run24pp/macro/result/korewo_hontoni_syuron_tsukau/

@@ -1,0 +1,9 @@
+data 
+/sphenix/tg/tg01/commissioning/INTT/work/mahiro/SIliconCalo/run24pp/macro/makedata/condor/data
+
+single sim
+/sphenix/tg/tg01/commissioning/INTT/work/mahiro/SIliconCalo/MC/ana_jpsi/merged_200k.root
+
+pythia sim
+/sphenix/tg/tg01/commissioning/INTT/work/mahiro/SIliconCalo/MC/ana/merged_100m.root
+
