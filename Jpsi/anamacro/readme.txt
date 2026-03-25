@@ -18,6 +18,6 @@ recalc_charge.C → まるで電荷を再計算するような名前のマクロ
 
 result/ → 結果ファイルをおいているpathを書いています
 
-condor_ana/ → 解析マクロをcondor使って回す
+condor_ana/ → 解析マクロをcondor使って回すときの設定やlistのdata・simどちらもをおいています。詳しい説明はそれぞれのディレクトリの中にさらにreadme.txtがあるのでそれをみてください
 
 data/ → 使用したデータのpathを書いています
